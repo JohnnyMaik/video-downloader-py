@@ -4,7 +4,7 @@ Um automatizador de linha de comando para baixar vídeos em alta resolução. Es
 
 ## 🚀 Como usar o programa (Executável)
 Para rodar sem precisar instalar o Python:
-1. Vá na aba **Releases** deste projeto e baixe o arquivo `main.exe` e o `ffmpeg.exe`.
+1. Vá na aba [Releases](https://github.com) deste projeto e baixe o arquivo main.exe e o ffmpeg.exe
 2. Coloque os dois arquivos na **mesma pasta**.
 3. Execute o `main.exe`, cole a URL do vídeo e pronto! O vídeo aparecerá na pasta `/downloads`.
 
